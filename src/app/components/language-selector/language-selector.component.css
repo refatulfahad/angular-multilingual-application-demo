@@ -1,0 +1,16 @@
+.language-button {
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.language-button img {
+    width: 40px;
+    /* Adjust the width of the language flag image */
+    height: auto;
+    /* Maintain aspect ratio */
+}
+
+.language-button span {
+    font-size: 12px;
+    margin-top: 3px;
+}
